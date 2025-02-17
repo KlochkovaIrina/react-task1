@@ -1,6 +1,7 @@
 
 const currentYear = new Date().getFullYear();//декларативный подход
 
+
 export const App = ()=>{
 	return (
 		//декларативный подход
